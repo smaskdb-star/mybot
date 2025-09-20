@@ -3,3 +3,4 @@ requests
 beautifulsoup4
 faker
 requests-toolbelt
+user_agent
