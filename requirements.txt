@@ -1,5 +1,9 @@
 pyTelegramBotAPI
 requests
-flask
 Faker
-
+beautifulsoup4
+lxml
+aiohttp
+pytz
+python-dotenv
+flask
