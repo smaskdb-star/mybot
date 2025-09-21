@@ -1,5 +1,6 @@
 pyTelegramBotAPI
 requests
+user_agent
 Faker
 beautifulsoup4
 lxml
